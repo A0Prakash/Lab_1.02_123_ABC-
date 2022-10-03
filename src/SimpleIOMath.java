@@ -4,6 +4,7 @@ import java.util.Scanner;
  * Simple IO Math program for lab 1.02 123 ABC of AP Computer Science
  * @version 10.01.2022
  * @author 26prakash
+ * Extra is on lines 65 and 53, it finds the area of a circle with the radius of the input.
  */
 
 public class SimpleIOMath {
@@ -57,6 +58,7 @@ public class SimpleIOMath {
     /**
      * findArea method(private) of the SimpleIOMath class.
      * Extra of my choosing
+     * Takes input of radius, outputs area(in double)
      * @param input Takes input of an integer
      * @return output Outputs the area of a circle with radius input
      */
